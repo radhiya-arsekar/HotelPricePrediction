@@ -1,1 +1,1 @@
-# HotelPricePrediction
+# Hotel Price Prediction
